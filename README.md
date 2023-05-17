@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anoldmusembi&label=Profile%20views&color=0e75b6&style=flat" alt="anoldmusembi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anoldmusembi" alt="anoldmusembi" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AnoldMusembi" alt="AnoldMusembi" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://arnold.majhubsolutions.com/](https://arnold.majhubsolutions.com/)
 
