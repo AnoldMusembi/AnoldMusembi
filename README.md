@@ -7,6 +7,10 @@
 
 - 👨‍💻 All of my projects are available at [https://arnold.majhubsolutions.com/](https://arnold.majhubsolutions.com/)
 
+- 💬 Ask me about **Android development, Web App development and REST Api**
+
+- 📫 How to reach me **arnold@majhubsolutions.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
